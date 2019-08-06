@@ -1,0 +1,21 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5vh;
+    font-size: 300%
+}
+
+.list {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+
+}
+
+.shop {
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
